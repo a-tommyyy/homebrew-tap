@@ -1,6 +1,6 @@
 cask "timedog" do
-  version "1.2.0"
-  sha256 "ac1c8befc67ebcae9ab9e1e5336f0a605e6ada9d167a19f4f08cc5c66a0b4767"
+  version "1.2.1"
+  sha256 "c6d78965b4062eaad7634465e67bda9d3d9bf704cec42f12ab5c1a5fa117cc77"
 
   url "https://github.com/a-tommyyy/timedog/releases/download/v#{version}/Timedog-#{version}-arm64.dmg"
   name "Timedog"
