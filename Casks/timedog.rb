@@ -1,11 +1,11 @@
 cask "timedog" do
-  version "1.2.1"
-  sha256 "c6d78965b4062eaad7634465e67bda9d3d9bf704cec42f12ab5c1a5fa117cc77"
+  version "1.5.0"
+  sha256 "3ca567e79046ee82328bd69f46cc94c3a38dfde0320d71de2aa826cc021d70a1"
 
-  url "https://github.com/a-tommyyy/timedog/releases/download/v#{version}/Timedog-#{version}-arm64.dmg"
+  url "https://github.com/viteflowsystem/timedog/releases/download/v#{version}/Timedog-#{version}-arm64.dmg"
   name "Timedog"
   desc "Freelance timecard app with Google Sheets integration"
-  homepage "https://github.com/a-tommyyy/timedog"
+  homepage "https://github.com/viteflowsystem/timedog"
 
   app "Timedog.app"
 
